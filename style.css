@@ -1,18 +1,29 @@
 body {
-  background-color: rgb(254, 254, 254) ;
-  color: rgb(30, 30, 140) ;
+  background-color: rgb(197, 231, 239) ;
+  color: rgb(17, 17, 78) ;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 table, th, td {
-  border: 1px dotted rgb(137, 133, 251);
+  border: 1px dotted rgb(251, 252, 250);
 }
+
 div#omeio {
   text-align: center;
   background-image: url('Design\ sem\ nome\ \(3\).png');
-  color: aliceblue;(30, 30, 140)
+  color: aliceblue;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-a {
-  color: aliceblue;(30, 30, 140)
 
+p {
+  margin-left: 40px;
+  margin-right: 80px;
+}
+
+#sidenote {
+  background-color: rgb(243, 157, 194) ;
+}
+
+#tituloscentro {
+  text-align: center;
 }
