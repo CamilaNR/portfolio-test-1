@@ -1,17 +1,17 @@
 body {
-  background-color: rgb(197, 231, 239) ;
+  background-color: rgb(241, 226, 237) ;
   color: rgb(17, 17, 78) ;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 table, th, td {
-  border: 1px dotted rgb(251, 252, 250);
+  border: 2px solid rgb(22, 22, 135);
+
 }
 
 div#omeio {
   text-align: center;
-  background-image: url('Design\ sem\ nome\ \(3\).png');
-  color: aliceblue;
+  color: rgb(21, 16, 86);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
