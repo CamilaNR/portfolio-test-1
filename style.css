@@ -1,5 +1,6 @@
+
 body {
-  background-color: rgb(241, 226, 237) ;
+  background-color: rgb(244, 244, 244) ;
   color: rgb(17, 17, 78) ;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -19,11 +20,19 @@ p {
   margin-left: 40px;
   margin-right: 80px;
 }
-
 #sidenote {
   background-color: rgb(243, 157, 194) ;
+  animation-name: sidenote;
+  animation-duration: 0.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes sidenote{
+0%{background-color: rgb(98, 255, 46)}
+20%{background-color: rgb(220, 255, 24);}
 }
 
 #tituloscentro {
   text-align: center;
 }
+
